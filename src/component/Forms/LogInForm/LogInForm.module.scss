@@ -1,0 +1,15 @@
+.formWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+}
+
+.inputHandler {
+  max-width: 400px;
+  height: 50px;
+}
+
+.inputHandler + .inputHandler  {
+  padding-top: 35px;
+}

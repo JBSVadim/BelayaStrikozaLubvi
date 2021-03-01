@@ -1,0 +1,14 @@
+.headerNavBar {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  padding-top: 20px;
+}
+
+.btn {
+  padding: 5px;
+  width: 80px;
+  height: 50px;
+  text-overflow: ellipsis;
+}
